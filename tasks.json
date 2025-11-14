@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Buy groceries for home",
+    "completed": true,
+    "due": "2025-11-20 14:30",
+    "priority": "Medium",
+    "created_at": "2025-11-14 13:35"
+  },
+  {
+    "title": "Complete Python Assignment",
+    "completed": true,
+    "due": "2025-11-22 18:00",
+    "priority": "High",
+    "created_at": "2025-11-14 13:35"
+  },
+  {
+    "title": "Prepare slides for AI project",
+    "completed": false,
+    "due": "2025-11-25 09:30",
+    "priority": "Low",
+    "created_at": "2025-11-14 13:36"
+  }
+]
